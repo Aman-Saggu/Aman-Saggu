@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aman-Saggu
-- 👀 I’m interested in Devoping
+- 👀 I’m interested in Developing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
